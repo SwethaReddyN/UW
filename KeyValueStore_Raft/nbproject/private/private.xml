@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Assignments">
+            <file>file:/C:/Users/sweth/Desktop/UW/558-DS/Workspace/KeyValueStore_Raft/src/raft/Log.java</file>
+            <file>file:/C:/Users/sweth/Desktop/UW/558-DS/Workspace/KeyValueStore_Raft/src/server/nodemembership/Directory.java</file>
+            <file>file:/C:/Users/sweth/Desktop/UW/558-DS/Workspace/KeyValueStore_Raft/src/UsageMessages.java</file>
+            <file>file:/C:/Users/sweth/Desktop/UW/558-DS/Workspace/KeyValueStore_Raft/src/server/RmiServer.java</file>
+            <file>file:/C:/Users/sweth/Desktop/UW/558-DS/Workspace/KeyValueStore_Raft/src/raft/RaftServer.java</file>
+            <file>file:/C:/Users/sweth/Desktop/UW/558-DS/Workspace/KeyValueStore_Raft/src/raft/RaftGenericNodeInterface.java</file>
+        </group>
+    </open-files>
+</project-private>
